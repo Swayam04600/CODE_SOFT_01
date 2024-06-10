@@ -1,4 +1,3 @@
-# CODE_SOFT_01
 
 # Simple Chatbot
 
